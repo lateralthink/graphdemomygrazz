@@ -1,0 +1,78 @@
+[
+ {
+  "id": "wallet",
+  "contents": [
+   {
+    "type": "html",
+    "name": "wallet-btn",
+    "expression": "all"
+   }
+  ]
+ },
+ {
+  "id": "burger",
+  "contents": [
+   {
+    "type": "html",
+    "name": "burger-btn",
+    "expression": "all"
+   }
+  ]
+ },
+ {
+  "id": "main",
+  "contents": [
+   {
+    "type": "group",
+    "id": "sidebar",
+    "contents": [
+     {
+      "type": "html",
+      "name": "sidebar-nav",
+      "expression": "all"
+     }
+    ],
+    "expression": "all"
+   },
+   {
+    "type": "group",
+    "id": "mobile",
+    "contents": [
+     {
+      "type": "html",
+      "name": "mobile-nav",
+      "expression": "all"
+     }
+    ],
+    "expression": "all"
+   },
+   {
+    "type": "group",
+    "id": "content",
+    "contents": [
+     {
+      "type": "html",
+      "name": "slider",
+      "expression": "all"
+     },
+     {
+      "type": "html",
+      "name": "about",
+      "expression": "all"
+     },
+     {
+      "type": "html",
+      "name": "menu",
+      "expression": "all"
+     },
+     {
+      "type": "html",
+      "name": "buy",
+      "expression": "all"
+     }
+    ],
+    "expression": "all"
+   }
+  ]
+ }
+]
